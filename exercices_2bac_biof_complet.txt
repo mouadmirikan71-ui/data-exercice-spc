@@ -1,0 +1,267 @@
+=== MATHÉMATIQUES (70) ===
+1. [DEVOIR] [MOYEN] Chapitre : Suites numériques : Suite homographique : monotonie, bornes et limite | Source : AlloSchool, 2022 | LIEN : https://www.alloschool.com/element/100285 | CORRIGÉ : https://www.alloschool.com/assets/documents/course-438/suites-numeriques-corrige-serie-d-exercices-2-2.pdf | STATUT : TROUVÉ
+2. [COURS] [MOYEN] Chapitre : Nombres complexes (Partie 2) : Forme trigonométrique et équation complexe | Source : AlloSchool, 2023 | LIEN : https://www.alloschool.com/element/100435 | CORRIGÉ : https://www.alloschool.com/assets/documents/course-438/nombres-complexes-2-cours-et-exercices-corriges-2.pdf | STATUT : TROUVÉ
+3. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Limites et continuité : Série corrigée : limites, continuité et fonctions par morceaux | Source : AlloSchool, 2018-2019, semestre 1 | LIEN : https://www.alloschool.com/section/4726 | CORRIGÉ : https://www.alloschool.com/assets/documents/course-439/limites-et-continuite-corrige-serie-d-exercices-2.pdf | STATUT : TROUVÉ
+4. [TAMARIN] [MOYEN] Chapitre : Dérivabilité et étude des fonctions : Dérivées à droite et à gauche d’une fonction par morceaux | Source : Xyriadiats / Atmani Najib, 2019 | LIEN : http://xriadiat.e-monsite.com/medias/files/2sex-derive-exe.pdf | CORRIGÉ : http://xriadiat.e-monsite.com/medias/files/2sex-derive-exe-corr.pdf | STATUT : TROUVÉ
+5. [DEVOIR] [DIFFICILE] Chapitre : Suites numériques : Suite récurrente transformée en suite géométrique | Source : Xyriadiats / Atmani Najib, 2019 | LIEN : http://xriadiat.e-monsite.com/medias/files/2sex-les-suites-ex.pdf | CORRIGÉ : http://xriadiat.e-monsite.com/medias/files/2sex-les-suites-ex-corr.pdf | STATUT : TROUVÉ
+6. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Fonctions exponentielles : Équations, inéquations et limites exponentielles | Source : Xyriadiats / Atmani Najib, 2019 | LIEN : http://xriadiat.e-monsite.com/medias/files/2sex-exponentielle-exe.pdf | CORRIGÉ : http://xriadiat.e-monsite.com/medias/files/2sex-exponentielle-exe-corr.pdf | STATUT : TROUVÉ
+7. [EXAMEN LOCAL] [MOYEN] Chapitre : Limites et continuité : Calcul de limites et étude de continuité | Source : Xyriadiats / Atmani Najib, 2019 | LIEN : http://xriadiat.e-monsite.com/medias/files/2sex-int-lim-cont-exe.pdf | CORRIGÉ : http://xriadiat.e-monsite.com/medias/files/2sex-int-lim-cont-exe-corr.pdf | STATUT : TROUVÉ
+8. [COURS] [FACILE] Chapitre : Fonctions logarithmiques : Propriétés de ln et équations élémentaires | Source : Xyriadiats / Atmani Najib, 2019 | LIEN : http://xriadiat.e-monsite.com/medias/files/2sex-logarithme-exe.pdf | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+9. [DEVOIR] [MOYEN] Chapitre : Nombres complexes (Partie 1) : Calcul algébrique et représentation dans le plan complexe | Source : Xyriadiats / Atmani Najib, 2019 | LIEN : http://xriadiat.e-monsite.com/medias/files/2sex-complexes-exe-parti1.pdf | CORRIGÉ : http://xriadiat.e-monsite.com/medias/files/2sex-complexes-exe-corr-parti1.pdf | STATUT : TROUVÉ
+10. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Nombres complexes (Partie 2) : Lieu géométrique et écriture exponentielle | Source : Xyriadiats / Atmani Najib, 2019 | LIEN : http://xriadiat.e-monsite.com/medias/files/2sex-complexes-exe-parti2.pdf | CORRIGÉ : http://xriadiat.e-monsite.com/medias/files/2sex-complexes-exe-cor-parti2.pdf | STATUT : TROUVÉ
+11. [COURS] [FACILE] Chapitre : Fonctions primitives : Primitives usuelles et composées | Source : Xyriadiats / Atmani Najib, 2019 | LIEN : http://xriadiat.e-monsite.com/medias/files/2sex-fonctions-primitives-ex.pdf | CORRIGÉ : http://xriadiat.e-monsite.com/medias/files/2sex-fonctions-primitives-ex-cor.pdf | STATUT : TROUVÉ
+12. [DEVOIR] [MOYEN] Chapitre : Calcul intégral : Intégrales et applications aux aires | Source : Dyrassa, s.d. | LIEN : https://dyrassa.com/calcul-integral/ | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+13. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Équations différentielles : Résolution de modèles différentiels linéaires | Source : Dyrassa, s.d. | LIEN : https://dyrassa.com/equations-differentielles/ | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+14. [EXAMEN LOCAL] [FACILE] Chapitre : Limites et continuité : Série corrigée de limites et continuité | Source : Al3abkari-Pro, 2020 | LIEN : https://www.al3abkari-pro.com/2020/04/2bsp7.html | CORRIGÉ : https://drive.google.com/open?id=1nZyLlcuPpHromWUxWMbcKFN0a-MonuwH | STATUT : TROUVÉ
+15. [COURS] [MOYEN] Chapitre : Limites et continuité : Continuité en un point et factorisation | Source : Pdfmath, 2026 | LIEN : https://www.pdfmath.com/chapitre/exercices-limites-et-continuite-2bac-pc/ | CORRIGÉ : https://www.pdfmath.com/chapitre/limites-et-continuite-2bac-pc/ | STATUT : TROUVÉ
+16. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Limites et continuité : Limite de (x²−1)/(x−1) en 1 | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+17. [DEVOIR] [MOYEN] Chapitre : Limites et continuité : Paramètre r pour rendre une fonction rationnelle continue en 2 | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+18. [TAMARIN] [FACILE] Chapitre : Dérivabilité et étude des fonctions : Dérivée de x²eˣ et signe sur [−1,1] | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+19. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Dérivabilité et étude des fonctions : Variations de x+1/x sur ]0,+∞[ | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+20. [DEVOIR] [DIFFICILE] Chapitre : Dérivabilité et étude des fonctions : Extremum unique de ln(x)/x sur ]0,+∞[ | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+21. [COURS] [FACILE] Chapitre : Dérivabilité et étude des fonctions : Domaine et dérivée de √(x²+1) | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+22. [EXAMEN LOCAL] [MOYEN] Chapitre : Dérivabilité et étude des fonctions : Tangente parallèle à y=2x+1 pour une fonction polynomiale | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+23. [DEVOIR] [MOYEN] Chapitre : Suites numériques : Convergence de u₀=1, uₙ₊₁=(uₙ+2)/3 | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+24. [COURS] [FACILE] Chapitre : Suites numériques : Suite arithmético-géométrique et limite | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+25. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Suites numériques : Récurrence : 0≤uₙ≤4 pour uₙ₊₁=√(uₙ+12) | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+26. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Suites numériques : Expression explicite d’une récurrence affine | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+27. [EXAMEN LOCAL] [FACILE] Chapitre : Fonctions primitives : Primitive de (3x²−2x+1)eˣ | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+28. [DEVOIR] [MOYEN] Chapitre : Fonctions primitives : Primitive vérifiant F(0)=2 pour 1/(1+x²) | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+29. [COURS] [FACILE] Chapitre : Fonctions primitives : Vérification d’une primitive de cos(2x+π/3) | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+30. [TAMARIN] [DIFFICILE] Chapitre : Fonctions primitives : Primitive rationnelle par éléments simples | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+31. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Fonctions primitives : Primitive de x/√(x²+4) | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+32. [COURS] [FACILE] Chapitre : Fonctions logarithmiques : Résoudre ln(x−1)=2 | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+33. [DEVOIR] [MOYEN] Chapitre : Fonctions logarithmiques : Variations de xln(x) sur ]0,+∞[ | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+34. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Fonctions logarithmiques : Résoudre ln(x)+ln(x−2)=ln(3x) | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+35. [EXAMEN LOCAL] [FACILE] Chapitre : Fonctions logarithmiques : Dérivée de ln(√(x²+1)) | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+36. [TAMARIN] [MOYEN] Chapitre : Nombres complexes (Partie 1) : Résoudre z²−(1+i)z+i=0 | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+37. [COURS] [FACILE] Chapitre : Nombres complexes (Partie 1) : Module et argument de 1−i√3 | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+38. [DEVOIR] [MOYEN] Chapitre : Nombres complexes (Partie 1) : Forme algébrique de (1+i)⁶ | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+39. [EXAMEN RÉGIONAL] [DIFFICILE] Chapitre : Nombres complexes (Partie 1) : Équation complexe de degré deux | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+40. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Nombres complexes (Partie 1) : Affixe du centre d’un triangle équilatéral | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+41. [EXAMEN LOCAL] [FACILE] Chapitre : Fonctions exponentielles : Résoudre e^(2x−1)=5 | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+42. [COURS] [FACILE] Chapitre : Fonctions exponentielles : Variations de eˣ−x sur ℝ | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+43. [DEVOIR] [MOYEN] Chapitre : Fonctions exponentielles : Résoudre e²ˣ−3eˣ+2=0 | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+44. [EXAMEN RÉGIONAL] [DIFFICILE] Chapitre : Fonctions exponentielles : Nombre de solutions de eˣ=x+3 | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+45. [TAMARIN] [MOYEN] Chapitre : Nombres complexes (Partie 2) : Image d’un point par une rotation d’angle π/3 | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+46. [DEVOIR] [DIFFICILE] Chapitre : Nombres complexes (Partie 2) : Équation d’un cercle par condition sur |z−a| | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+47. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Nombres complexes (Partie 2) : Résoudre z⁴=16 et représenter les solutions | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+48. [COURS] [FACILE] Chapitre : Calcul intégral : Calcul de ∫₀¹(2x+1)dx | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+49. [DEVOIR] [MOYEN] Chapitre : Calcul intégral : Aire entre y=x² et y=x sur [0,1] | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+50. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Calcul intégral : Intégrale par changement de variable affine | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+51. [EXAMEN LOCAL] [FACILE] Chapitre : Calcul intégral : Relation de Chasles pour trois bornes | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+52. [TAMARIN] [DIFFICILE] Chapitre : Équations différentielles : Résoudre y′−2y=0 avec y(0)=3 | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+53. [COURS] [FACILE] Chapitre : Équations différentielles : Résoudre y′+y=eˣ avec y(0)=1 | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+54. [DEVOIR] [MOYEN] Chapitre : Équations différentielles : Modèle de refroidissement à condition initiale | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+55. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Équations différentielles : Résoudre y″−3y′+2y=0 avec deux conditions | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+56. [EXAMEN LOCAL] [FACILE] Chapitre : Géométrie dans l’espace : Produit scalaire de deux vecteurs donnés | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+57. [COURS] [FACILE] Chapitre : Géométrie dans l’espace : Plan passant par trois points non alignés | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+58. [DEVOIR] [MOYEN] Chapitre : Géométrie dans l’espace : Distance d’un point à un plan | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+59. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Géométrie dans l’espace : Droite d’intersection de deux plans | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+60. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Géométrie dans l’espace : Position relative d’une droite et d’une sphère | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+61. [TAMARIN] [FACILE] Chapitre : Dénombrement : Anagrammes distinctes d’un mot à répétitions | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+62. [COURS] [FACILE] Chapitre : Dénombrement : Sous-ensembles à trois éléments d’un ensemble à huit éléments | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+63. [DEVOIR] [MOYEN] Chapitre : Dénombrement : Tirages ordonnés sans remise de quatre objets | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+64. [EXAMEN RÉGIONAL] [DIFFICILE] Chapitre : Dénombrement : Répartition avec contraintes d’adjacence | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+65. [EXAMEN LOCAL] [FACILE] Chapitre : Probabilités : Probabilité conditionnelle dans un tableau à deux événements | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+66. [COURS] [FACILE] Chapitre : Probabilités : Espérance d’une variable aléatoire binomiale | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+67. [DEVOIR] [MOYEN] Chapitre : Probabilités : Loi du nombre de succès de trois essais | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+68. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Probabilités : Probabilité totale avec deux urnes équiprobables | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+69. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Probabilités : Paramètre d’une loi binomiale par probabilité imposée | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+70. [TAMARIN] [MOYEN] Chapitre : Probabilités : Indépendance de deux événements | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+
+=== BILAN DÉTAILLÉ ===
+Exercices numérotés : 70 (vérification des numéros 1 à 70).
+Répartition par type : COURS=15; TAMARIN=8; EXAMEN NATIONAL=10; EXAMEN RÉGIONAL=11; EXAMEN LOCAL=9; DEVOIR=17
+Répartition par niveau : FACILE=22; MOYEN=30; DIFFICILE=18
+Répartition par chapitre : Limites et continuité=6; Dérivabilité et étude des fonctions=6; Suites numériques=6; Fonctions primitives=6; Fonctions logarithmiques=5; Nombres complexes (Partie 1)=6; Fonctions exponentielles=5; Nombres complexes (Partie 2)=5; Calcul intégral=5; Équations différentielles=5; Géométrie dans l’espace=5; Dénombrement=4; Probabilités=6
+ORIGINAL : 55
+PREMIUM écartés : 5 (AlloSchool éléments réservés 122928, 122953, 123028, 123043, 123939).
+Corrigés trouvés : 12
+Corrigés NON TROUVÉ : 3 (hors originaux).
+Originaux avec « CORRIGÉ : non fourni » : 55.
+Contrôles : maximum par chapitre = 6; doublons d’intitulés = 0.
+
+=== SVT (70) ===
+1. [COURS] [FACILE] Chapitre : Utilisation des matières inorganiques et photosynthèse — Écrire le bilan équilibré de la photosynthèse en présence de lumière. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+2. [TAMARIN] [MOYEN] Chapitre : Utilisation des matières inorganiques et photosynthèse — Relier intensité lumineuse et production nette d’O2 sur trois mesures. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+3. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Utilisation des matières inorganiques et photosynthèse — Interpréter le test à l’iode de feuilles panachées après éclairement. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+4. [EXAMEN LOCAL] [FACILE] Chapitre : Utilisation des matières inorganiques et photosynthèse — Identifier les échanges de CO2 d’une feuille avec un capteur. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+5. [DEVOIR] [DIFFICILE] Chapitre : Utilisation des matières inorganiques et photosynthèse — Déduire l’élément minéral limitant de deux cultures de maïs. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+6. [EXAMEN NATIONAL] [MOYEN] Chapitre : Utilisation des matières inorganiques et photosynthèse — Suivre par isotope O18 l’origine de l’oxygène libéré par une algue. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+7. [COURS] [MOYEN] Chapitre : Utilisation des matières inorganiques et photosynthèse — Associer photosystème, chaîne d’électrons et formation d’ATP. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+8. [TAMARIN] [DIFFICILE] Chapitre : Utilisation des matières inorganiques et photosynthèse — Comparer le rendement photosynthétique d’une plante C3 et C4. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+9. [EXAMEN RÉGIONAL] [FACILE] Chapitre : Utilisation des matières inorganiques et photosynthèse — Calculer le bilan hydrique d’une plante à partir de trois flux. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+10. [DEVOIR] [DIFFICILE] Chapitre : Utilisation des matières inorganiques et photosynthèse — Déterminer le facteur limitant d’un rendement photosynthétique. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+11. [COURS] [FACILE] Chapitre : Consommation de matière organique : respiration et fermentation — Distinguer respiration aérobie et fermentation par leurs accepteurs finaux. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+12. [TAMARIN] [MOYEN] Chapitre : Consommation de matière organique : respiration et fermentation — Calculer le rendement ATP d’un glucose entièrement oxydé. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+13. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Consommation de matière organique : respiration et fermentation — Exploiter une courbe de consommation d’O2 par des levures. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+14. [EXAMEN LOCAL] [FACILE] Chapitre : Consommation de matière organique : respiration et fermentation — Reconnaître la fermentation alcoolique dans un montage gazeux. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+15. [DEVOIR] [DIFFICILE] Chapitre : Consommation de matière organique : respiration et fermentation — Comparer les bilans énergétiques de deux voies sur 5 mmol de glucose. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+16. [EXAMEN NATIONAL] [MOYEN] Chapitre : Consommation de matière organique : respiration et fermentation — Identifier le rôle de la mitochondrie lors d’une inhibition respiratoire. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+17. [COURS] [MOYEN] Chapitre : Consommation de matière organique : respiration et fermentation — Reconstituer glycolyse, cycle de Krebs et chaîne respiratoire. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+18. [TAMARIN] [DIFFICILE] Chapitre : Consommation de matière organique : respiration et fermentation — Déduire un inhibiteur enzymatique d’après O2 et ATP. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+19. [EXAMEN RÉGIONAL] [FACILE] Chapitre : Consommation de matière organique : respiration et fermentation — Calculer le quotient respiratoire avec CO2 et O2 mesurés. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+20. [DEVOIR] [DIFFICILE] Chapitre : Consommation de matière organique : respiration et fermentation — Interpréter l’effet de la température sur levures respirantes. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+21. [COURS] [FACILE] Chapitre : Conversion de l’énergie et fonctionnement du muscle strié — Nommer les structures d’un sarcomère sur un schéma simplifié. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+22. [TAMARIN] [MOYEN] Chapitre : Conversion de l’énergie et fonctionnement du muscle strié — Relier glissement des filaments et raccourcissement du sarcomère. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+23. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Conversion de l’énergie et fonctionnement du muscle strié — Analyser la tension musculaire selon la longueur initiale. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+24. [EXAMEN LOCAL] [FACILE] Chapitre : Conversion de l’énergie et fonctionnement du muscle strié — Identifier ATP, actine et myosine dans un cycle contractile. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+25. [DEVOIR] [DIFFICILE] Chapitre : Conversion de l’énergie et fonctionnement du muscle strié — Calculer la puissance mécanique avec force et vitesse. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+26. [EXAMEN NATIONAL] [MOYEN] Chapitre : Conversion de l’énergie et fonctionnement du muscle strié — Exploiter les signaux d’ATP et lactate pendant un effort bref. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+27. [COURS] [MOYEN] Chapitre : Conversion de l’énergie et fonctionnement du muscle strié — Expliquer le couplage excitation-contraction avec le calcium. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+28. [TAMARIN] [DIFFICILE] Chapitre : Conversion de l’énergie et fonctionnement du muscle strié — Myopathie : glycogène, lactate et myophosphorylase pendant un effort bref. | Source : AlloSchool, 2022, session rattrapage | LIEN : https://www.alloschool.com/element/139980 | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+29. [EXAMEN RÉGIONAL] [FACILE] Chapitre : Conversion de l’énergie et fonctionnement du muscle strié — Comparer contraction isométrique et isotoniqe expérimentalement. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+30. [DEVOIR] [DIFFICILE] Chapitre : Conversion de l’énergie et fonctionnement du muscle strié — Déterminer le coût énergétique d’un effort répété. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+31. [COURS] [FACILE] Chapitre : Nature de l’information génétique — Identifier nucléotide, nucléoside, base et liaison dans l’ADN. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+32. [TAMARIN] [MOYEN] Chapitre : Nature de l’information génétique — Déduire la complémentarité des bases d’un ADN bicaténaire. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+33. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Nature de l’information génétique — Comparer deux profils de migration de fragments d’ADN. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+34. [EXAMEN LOCAL] [FACILE] Chapitre : Nature de l’information génétique — Classer ADN, ARN, chromosome et gène par organisation. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+35. [DEVOIR] [DIFFICILE] Chapitre : Nature de l’information génétique — Calculer la taille d’un gène à partir des paires de bases. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+36. [EXAMEN NATIONAL] [MOYEN] Chapitre : Nature de l’information génétique — Interpréter une réplication semi-conservative marquée. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+37. [COURS] [MOYEN] Chapitre : Nature de l’information génétique — Relier séquence nucléotidique et information d’un gène. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+38. [TAMARIN] [DIFFICILE] Chapitre : Nature de l’information génétique — Localiser une mutation ponctuelle dans une séquence. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+39. [EXAMEN RÉGIONAL] [FACILE] Chapitre : Nature de l’information génétique — Lire un caryotype et reconnaître une anomalie chromosomique. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+40. [DEVOIR] [DIFFICILE] Chapitre : Nature de l’information génétique — Comparer ADN nucléaire et mitochondrial dans une famille. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+41. [COURS] [FACILE] Chapitre : Expression de l’information génétique — Transcrire un brin d’ADN en ARNm complémentaire. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+42. [TAMARIN] [MOYEN] Chapitre : Expression de l’information génétique — Traduire un ARNm en chaîne polypeptidique avec le code. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+43. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Expression de l’information génétique — Relier mutation d’un codon et acide aminé modifié. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+44. [EXAMEN LOCAL] [FACILE] Chapitre : Expression de l’information génétique — Distinguer transcription, maturation et traduction. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+45. [DEVOIR] [DIFFICILE] Chapitre : Expression de l’information génétique — Expliquer l’effet d’une mutation non-sens sur une protéine. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+46. [EXAMEN NATIONAL] [MOYEN] Chapitre : Expression de l’information génétique — Épreuve nationale SVT 2025 session normale : analyse intégrée d’expression génétique. | Source : AlloSchool, 2025, session normale | LIEN : https://www.alloschool.com/element/145841 | CORRIGÉ : https://www.alloschool.com/assets/documents/course-399/examen-national-svt-sciences-physiques-2025-normale-corrige.pdf | STATUT : TROUVÉ
+47. [COURS] [MOYEN] Chapitre : Expression de l’information génétique — Épreuve nationale SVT 2023 session normale : interprétation de documents génétiques. | Source : AlloSchool, 2023, session normale | LIEN : https://www.alloschool.com/element/142311 | CORRIGÉ : https://www.alloschool.com/assets/documents/course-399/examen-national-svt-sciences-physiques-2023-normale-corrige.pdf | STATUT : TROUVÉ
+48. [TAMARIN] [DIFFICILE] Chapitre : Expression de l’information génétique — Comparer expression d’un gène dans deux tissus. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+49. [EXAMEN RÉGIONAL] [FACILE] Chapitre : Expression de l’information génétique — Identifier le rôle de l’ARNt dans l’assemblage protéique. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+50. [DEVOIR] [DIFFICILE] Chapitre : Expression de l’information génétique — Interpréter une épreuve nationale 2023 sur documents génétiques. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+51. [COURS] [FACILE] Chapitre : Transfert de l’information génétique au cours de la reproduction sexuée — Décrire les étapes de méiose produisant des gamètes haploïdes. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+52. [TAMARIN] [MOYEN] Chapitre : Transfert de l’information génétique au cours de la reproduction sexuée — Calculer les combinaisons gamétiques d’un double hétérozygote. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+53. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Transfert de l’information génétique au cours de la reproduction sexuée — Interpréter un échiquier de croisement monohybride. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+54. [EXAMEN LOCAL] [FACILE] Chapitre : Transfert de l’information génétique au cours de la reproduction sexuée — Identifier ségrégation des allèles et fécondation. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+55. [DEVOIR] [DIFFICILE] Chapitre : Transfert de l’information génétique au cours de la reproduction sexuée — Déterminer le mode de transmission d’une maladie familiale. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+56. [EXAMEN NATIONAL] [MOYEN] Chapitre : Transfert de l’information génétique au cours de la reproduction sexuée — Expliquer le brassage interchromosomique en méiose. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+57. [COURS] [MOYEN] Chapitre : Transfert de l’information génétique au cours de la reproduction sexuée — Relier crossing-over et diversité génétique des gamètes. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+58. [TAMARIN] [DIFFICILE] Chapitre : Transfert de l’information génétique au cours de la reproduction sexuée — Calculer la probabilité d’un phénotype à deux loci. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+59. [EXAMEN RÉGIONAL] [FACILE] Chapitre : Transfert de l’information génétique au cours de la reproduction sexuée — Déduire les génotypes parentaux d’un croisement test. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+60. [DEVOIR] [DIFFICILE] Chapitre : Transfert de l’information génétique au cours de la reproduction sexuée — Devoir 1 modèle 1 SVT 2 Bac SPC : synthèse du premier semestre. | Source : AlloSchool, 2020 | LIEN : https://www.alloschool.com/element/65527 | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+61. [COURS] [FACILE] Chapitre : Phénomènes géologiques et formation des chaînes de montagnes — Définir subduction, collision, prisme d’accrétion et ophiolite. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+62. [TAMARIN] [MOYEN] Chapitre : Phénomènes géologiques et formation des chaînes de montagnes — Relier séismes et plongée d’une plaque océanique. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+63. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Phénomènes géologiques et formation des chaînes de montagnes — Interpréter une coupe géologique d’une chaîne de collision. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+64. [EXAMEN LOCAL] [FACILE] Chapitre : Phénomènes géologiques et formation des chaînes de montagnes — Reconnaître granite, andésite, gneiss et péridotite. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+65. [DEVOIR] [DIFFICILE] Chapitre : Phénomènes géologiques et formation des chaînes de montagnes — Déduire le gradient métamorphique d’une série de roches. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+66. [EXAMEN NATIONAL] [MOYEN] Chapitre : Phénomènes géologiques et formation des chaînes de montagnes — Épreuve nationale SVT 2016 session normale : tectonique et métamorphisme. | Source : SVT Maroc (prof. Kebdani), 2016, session normale | LIEN : https://sites.google.com/view/svt-maroc/examens-nationaux-svt | CORRIGÉ : https://drive.google.com/file/d/1eRuYd6RB-YX8Z3hUg31UrIZnzdBxTjcT/view?usp=sharing | STATUT : TROUVÉ
+67. [COURS] [MOYEN] Chapitre : Phénomènes géologiques et formation des chaînes de montagnes — Expliquer anatexie et formation de granitoïdes en collision. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+68. [TAMARIN] [DIFFICILE] Chapitre : Phénomènes géologiques et formation des chaînes de montagnes — Calculer une vitesse de convergence avec deux positions GPS. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+69. [EXAMEN RÉGIONAL] [FACILE] Chapitre : Phénomènes géologiques et formation des chaînes de montagnes — Associer plis, failles inverses et raccourcissement crustal. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+70. [DEVOIR] [DIFFICILE] Chapitre : Phénomènes géologiques et formation des chaînes de montagnes — Interpréter âges des roches et anomalies magnétiques. | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+
+=== BILAN DÉTAILLÉ ===
+Exercices numérotés : 70 (vérification : lignes 1 à 70, une ligne par exercice).
+ORIGINAL : 65 ; TROUVÉ : 5.
+
+Par type :
+- COURS : 14
+- TAMARIN : 14
+- EXAMEN NATIONAL : 7
+- EXAMEN RÉGIONAL : 14
+- EXAMEN LOCAL : 7
+- DEVOIR : 14
+
+Par niveau :
+- FACILE : 21
+- MOYEN : 28
+- DIFFICILE : 21
+
+Par chapitre :
+- Utilisation des matières inorganiques et photosynthèse : 10 (maximum autorisé : 15)
+- Consommation de matière organique : respiration et fermentation : 10 (maximum autorisé : 15)
+- Conversion de l’énergie et fonctionnement du muscle strié : 10 (maximum autorisé : 15)
+- Nature de l’information génétique : 10 (maximum autorisé : 15)
+- Expression de l’information génétique : 10 (maximum autorisé : 15)
+- Transfert de l’information génétique au cours de la reproduction sexuée : 10 (maximum autorisé : 15)
+- Phénomènes géologiques et formation des chaînes de montagnes : 10 (maximum autorisé : 15)
+
+Corrigés NON TROUVÉ : 2 (exercices 28 et 60 ; les pages consultées ne fournissent pas de corrigé accessible).
+PREMIUM écartés : 2 : AlloSchool « Transfert de l’information génétique au cours de la reproduction sexuée — Exercices » (https://www.alloschool.com/element/120931) ; AlloSchool « SVT 2Bac — Examen National 2022 (Normale) — Exercice 1 » (https://www.alloschool.com/element/141032).
+Les lignes TROUVÉ proviennent de pages/résultats consultés ; les autres sont des créations originales conformes aux chapitres, formulées pour admettre une réponse déterminée. Les contenus payants ou réservés ont été exclus des 70 et comptés séparément.
+
+=== PHYSIQUE-CHIMIE (70) ===
+1. [COURS] [FACILE] Chapitre : Ondes mécaniques progressives – lecture de célérité | Source : AlloSchool, 2022 | LIEN : https://www.alloschool.com/element/119829 | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+2. [TAMARIN] [MOYEN] Chapitre : Ondes mécaniques progressives – retard entre deux points | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+3. [EXAMEN NATIONAL] [MOYEN] Chapitre : Ondes mécaniques progressives périodiques – longueur d’onde | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+4. [DEVOIR] [DIFFICILE] Chapitre : Ondes mécaniques progressives périodiques – équation horaire | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+5. [COURS] [FACILE] Chapitre : Propagation des ondes lumineuses – indice d’un milieu | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+6. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Propagation des ondes lumineuses – diffraction par une fente | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+7. [TAMARIN] [MOYEN] Chapitre : Décroissance radioactive – demi-vie et activité | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+8. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Décroissance radioactive – datation par désintégration | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+9. [COURS] [FACILE] Chapitre : Noyaux, masse et énergie – défaut de masse | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+10. [DEVOIR] [MOYEN] Chapitre : Noyaux, masse et énergie – énergie de liaison | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+11. [EXAMEN LOCAL] [FACILE] Chapitre : Dipôle RC – constante de temps | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+12. [TAMARIN] [MOYEN] Chapitre : Dipôle RC – charge sous tension constante | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+13. [COURS] [FACILE] Chapitre : Dipôle RL – établissement du courant | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+14. [EXAMEN RÉGIONAL] [DIFFICILE] Chapitre : Dipôle RL – énergie magnétique | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+15. [DEVOIR] [MOYEN] Chapitre : Oscillations libres d’un circuit RLC série – pseudo-période | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+16. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Oscillations libres d’un circuit RLC série – amortissement | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+17. [COURS] [MOYEN] Chapitre : Circuit RLC série en régime sinusoïdal forcé – impédance | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+18. [EXAMEN LOCAL] [DIFFICILE] Chapitre : Circuit RLC série en régime sinusoïdal forcé – résonance | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+19. [TAMARIN] [FACILE] Chapitre : Ondes électromagnétiques et modulation d’amplitude – porteuse | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+20. [DEVOIR] [MOYEN] Chapitre : Ondes électromagnétiques et modulation d’amplitude – taux de modulation | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+21. [COURS] [FACILE] Chapitre : Transformations lentes et transformations rapides – durée d’évolution | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+22. [TAMARIN] [MOYEN] Chapitre : Transformations lentes et transformations rapides – facteurs cinétiques | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+23. [DEVOIR] [MOYEN] Chapitre : Suivi temporel d’une transformation chimique – vitesse moyenne | Source : GoodPrepa, 2023 | LIEN : https://www.goodprepa.tech/2023/01/suivi-temporel-dune-transformation-chimique-vitesse-de-reaction.html | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+24. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Suivi temporel d’une transformation chimique – temps de demi-réaction | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+25. [COURS] [FACILE] Chapitre : Transformations chimiques s’effectuant dans les deux sens – réaction inverse | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+26. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Transformations chimiques s’effectuant dans les deux sens – avancement | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+27. [TAMARIN] [MOYEN] Chapitre : État d’équilibre d’un système chimique – quotient de réaction | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+28. [EXAMEN LOCAL] [DIFFICILE] Chapitre : État d’équilibre d’un système chimique – constante K | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+29. [COURS] [FACILE] Chapitre : Transformations liées à des réactions acide-base – couples conjugués | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+30. [DEVOIR] [MOYEN] Chapitre : Transformations liées à des réactions acide-base – réaction prépondérante | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+31. [EXAMEN RÉGIONAL] [MOYEN] Chapitre : Dosage acido-basique – équivalence pH-métrique | Source : GoodPrepa, 2023 | LIEN : https://www.goodprepa.tech/2023/01/dosage-acido-basique-cours-et-exercices.html | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+32. [COURS] [DIFFICILE] Chapitre : Dosage acido-basique – indicateur coloré | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+33. [COURS] [FACILE] Chapitre : Lois de Newton – bilan des forces | Source : GoodPrepa, 2022 | LIEN : https://www.goodprepa.tech/2022/02/lois-de-newton-cours-et-exercices-bac.html | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+34. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Lois de Newton – mouvement sur plan incliné | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+35. [TAMARIN] [FACILE] Chapitre : Chute libre d’un corps solide – vitesse d’impact | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+36. [DEVOIR] [MOYEN] Chapitre : Chute libre d’un corps solide – hauteur de chute | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+37. [EXAMEN LOCAL] [MOYEN] Chapitre : Chute verticale avec frottement – vitesse limite | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+38. [EXAMEN RÉGIONAL] [DIFFICILE] Chapitre : Chute verticale avec frottement – constante de temps | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+39. [DEVOIR] [MOYEN] Chapitre : Mouvements plans : projectile dans le champ de pesanteur – portée | Source : GoodPrepa, 2023 | LIEN : https://www.goodprepa.tech/2023/01/mouvements-plans-cours-et-exercices-2bac.html | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+40. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Mouvements plans : projectile dans le champ de pesanteur – flèche | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+41. [COURS] [MOYEN] Chapitre : Mouvements plans : particule chargée dans un champ magnétique – rayon | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+42. [EXAMEN RÉGIONAL] [DIFFICILE] Chapitre : Mouvements plans : particule chargée dans un champ magnétique – période cyclotron | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+43. [COURS] [FACILE] Chapitre : Mouvement des satellites et des planètes – troisième loi de Kepler | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+44. [EXAMEN LOCAL] [MOYEN] Chapitre : Mouvement des satellites et des planètes – vitesse orbitale | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+45. [TAMARIN] [MOYEN] Chapitre : Mouvement de rotation d’un solide autour d’un axe fixe – vitesse angulaire | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+46. [DEVOIR] [DIFFICILE] Chapitre : Mouvement de rotation d’un solide autour d’un axe fixe – moment d’une force | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+47. [COURS] [FACILE] Chapitre : Systèmes mécaniques oscillants – période du pendule élastique | Source : GoodPrepa, 2023 | LIEN : https://www.goodprepa.tech/2023/01/systemes-mecaniques-oscillants-cours-exercices.html | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+48. [EXAMEN NATIONAL] [MOYEN] Chapitre : Systèmes mécaniques oscillants – pendule simple | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+49. [DEVOIR] [MOYEN] Chapitre : Aspects énergétiques des oscillations mécaniques – énergie totale | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+50. [EXAMEN RÉGIONAL] [DIFFICILE] Chapitre : Aspects énergétiques des oscillations mécaniques – vitesse maximale | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+51. [COURS] [MOYEN] Chapitre : Atome et mécanique de Newton – modèle de Bohr | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+52. [EXAMEN LOCAL] [DIFFICILE] Chapitre : Atome et mécanique de Newton – énergie quantifiée | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+53. [COURS] [FACILE] Chapitre : Évolution spontanée d’un système chimique – critère Qr et K | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+54. [DEVOIR] [MOYEN] Chapitre : Évolution spontanée d’un système chimique – sens d’évolution | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+55. [EXAMEN NATIONAL] [MOYEN] Chapitre : Transformations spontanées dans les piles et production d’énergie – f.e.m. | Source : GoodPrepa, 2023 | LIEN : https://www.goodprepa.tech/2023/01/transformations-spontanees-dans-les-piles-production-energie.html | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+56. [EXAMEN RÉGIONAL] [DIFFICILE] Chapitre : Transformations spontanées dans les piles et production d’énergie – Faraday | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+57. [COURS] [FACILE] Chapitre : Transformations forcées (électrolyse) – polarité des électrodes | Source : GoodPrepa, 2023 | LIEN : https://www.goodprepa.tech/2023/01/transformations-forcees-electrolyse-cours-exercices.html | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+58. [DEVOIR] [MOYEN] Chapitre : Transformations forcées (électrolyse) – quantité de matière déposée | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+59. [TAMARIN] [FACILE] Chapitre : Réactions d’estérification et d’hydrolyse – rendement | Source : GoodPrepa, 2023 | LIEN : https://www.goodprepa.tech/2023/01/reactions-desterification-et-dhydrolyse-cours-exercices.html | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+60. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Réactions d’estérification et d’hydrolyse – déplacement d’équilibre | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+61. [COURS] [FACILE] Chapitre : Contrôle de l’évolution d’un système chimique – température | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+62. [EXAMEN LOCAL] [MOYEN] Chapitre : Contrôle de l’évolution d’un système chimique – catalyseur | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+63. [DEVOIR] [MOYEN] Chapitre : Ondes mécaniques progressives – superposition de deux signaux | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+64. [EXAMEN RÉGIONAL] [DIFFICILE] Chapitre : Propagation des ondes lumineuses – interférences et longueur d’onde | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+65. [TAMARIN] [FACILE] Chapitre : Dipôle RC – décharge d’un condensateur | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+66. [EXAMEN NATIONAL] [MOYEN] Chapitre : Dipôle RL – régime permanent et transitoire | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+67. [COURS] [MOYEN] Chapitre : Suivi temporel d’une transformation chimique – exploitation conductimétrique | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+68. [DEVOIR] [DIFFICILE] Chapitre : Dosage acido-basique – détermination d’une concentration inconnue | Source : Adrar Physic, 2019 | LIEN : http://adrarphysic.fr/series-2bac/ | CORRIGÉ : NON TROUVÉ | STATUT : TROUVÉ
+69. [EXAMEN NATIONAL] [DIFFICILE] Chapitre : Examen national SPC – synthèse mécanique et chimique | Source : Adrar Physic, 2024 | LIEN : https://adrarphysic.fr/4589-2/ | CORRIGÉ : https://drive.google.com/file/d/1HtJ0r5ivtNfeVdbwwAKV4Y7dlvC2W5-a/view?usp=sharing | STATUT : TROUVÉ
+70. [EXAMEN LOCAL] [MOYEN] Chapitre : Lois de Newton – mouvement circulaire uniforme | Source : création originale | LIEN : aucun | CORRIGÉ : non fourni | STATUT : ORIGINAL
+
+BILAN
+Exercices numérotés : 70 (lignes 1 à 70 vérifiées).
+Répartition par type : COURS 18 ; TAMARIN 10 ; EXAMEN NATIONAL 11 ; EXAMEN RÉGIONAL 9 ; EXAMEN LOCAL 8 ; DEVOIR 14.
+Répartition par niveau : FACILE 18 ; MOYEN 32 ; DIFFICILE 20.
+Répartition par chapitre : Ondes mécaniques progressives 3 ; Ondes mécaniques progressives périodiques 2 ; Propagation des ondes lumineuses 3 ; Décroissance radioactive 2 ; Noyaux, masse et énergie 2 ; Dipôle RC 3 ; Dipôle RL 3 ; Oscillations libres d’un circuit RLC série 2 ; Circuit RLC série en régime sinusoïdal forcé 2 ; Ondes électromagnétiques et modulation d’amplitude 2 ; Transformations lentes et transformations rapides 2 ; Suivi temporel d’une transformation chimique 3 ; Transformations chimiques s’effectuant dans les deux sens 2 ; État d’équilibre d’un système chimique 2 ; Transformations liées à des réactions acide-base 2 ; Dosage acido-basique 3 ; Lois de Newton 3 ; Chute libre d’un corps solide 2 ; Chute verticale avec frottement 2 ; Mouvements plans : projectile dans le champ de pesanteur 2 ; Mouvements plans : particule chargée dans un champ magnétique 2 ; Mouvement des satellites et des planètes 2 ; Mouvement de rotation d’un solide autour d’un axe fixe 2 ; Systèmes mécaniques oscillants 2 ; Aspects énergétiques des oscillations mécaniques 2 ; Atome et mécanique de Newton 2 ; Évolution spontanée d’un système chimique 2 ; Transformations spontanées dans les piles et production d’énergie 2 ; Transformations forcées (électrolyse) 2 ; Réactions d’estérification et d’hydrolyse 2 ; Contrôle de l’évolution d’un système chimique 2.
+ORIGINAL : 59 ; TROUVÉ : 11.
+PREMIUM écartés : 14 ressources AlloSchool vérifiées comme réservées à l’abonnement (300 DH), non incluses dans les 70.
+Corrigés NON TROUVÉ : 10 ; corrigé fourni : 1 ; créations originales avec corrigé : 0 (non fourni par règle).
+Liens d’exercices uniques : 11 liens HTTP non répétés ; aucun doublon d’exercice retenu.
